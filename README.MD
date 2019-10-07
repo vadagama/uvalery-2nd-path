@@ -9,5 +9,6 @@
 <ul>
 <li>Клонируйте проект из репозитория с помощью команды - https://github.com/vadagama/uvalery-2nd-path.git</li>
 <li>Установите node.js - https://nodejs.org/en/</li>
-<li>Перейтите в корневую папку проекта и выполните команду npm run dev</li>
+<li>Перейдите в корневую папку проекта и выполните команду npm install</li>
+<li>Выполните команду npm run dev</li>
 </ul>
